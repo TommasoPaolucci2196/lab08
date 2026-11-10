@@ -1,0 +1,2 @@
+C:\Users\Osibi\Desktop\JavaProgram\lab08\81-simple-gui\build\classes\java\main\it\unibo\mvc\MiniGUI$1.class
+C:\Users\Osibi\Desktop\JavaProgram\lab08\81-simple-gui\build\classes\java\main\it\unibo\mvc\MiniGUI.class
