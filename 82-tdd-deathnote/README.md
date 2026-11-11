@@ -23,7 +23,7 @@ Use the *Test-Driven Development (TDD)* methodology to develop the following.
       * write the name of another human in the notebook
       * set the cause of death to "karting accident"
       * verify that the cause of death has been set correctly (returned true, and the cause is indeed "karting accident")
-      * sleep for 100ms
+      * sleep for 100ms      
       * try to change the cause of death 
       * verify that the cause of death has not been changed
    5. After writing the cause of death, details of the death should be written in the next 6 seconds and 40 milliseconds of writing the death's cause.

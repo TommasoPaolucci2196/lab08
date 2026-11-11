@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unibo.deathnote.TestDeathNote" tests="5" skipped="0" failures="1" errors="0" timestamp="2026-11-11T10:11:16.603Z" hostname="TOMMASOPAOLUCCI" time="0.2">
+  <properties/>
+  <testcase name="TestDeathCause()" classname="it.unibo.deathnote.TestDeathNote" time="0.157"/>
+  <testcase name="TestHumanDeath()" classname="it.unibo.deathnote.TestDeathNote" time="0.007"/>
+  <testcase name="TestInvalidRules()" classname="it.unibo.deathnote.TestDeathNote" time="0.002"/>
+  <testcase name="TestEmptyRules()" classname="it.unibo.deathnote.TestDeathNote" time="0.001"/>
+  <testcase name="TestDeathDetails()" classname="it.unibo.deathnote.TestDeathNote" time="0.01">
+    <failure message="java.lang.IllegalArgumentException: Name not in DeathNote" type="java.lang.IllegalArgumentException">java.lang.IllegalArgumentException: Name not in DeathNote
+	at it.unibo.deathnote.impl.DeathNoteImpl.getDeathDetails(DeathNoteImpl.java:84)
+	at it.unibo.deathnote.TestDeathNote.TestDeathDetails(TestDeathNote.java:75)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
